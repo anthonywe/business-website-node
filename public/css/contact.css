@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,300,500,600,700);
+
+.brand {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 45px;
+	color: #FFFFFF;
+	opacity: .9;
+	font-weight: 300;
+}

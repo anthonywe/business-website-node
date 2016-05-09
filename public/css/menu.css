@@ -1,0 +1,55 @@
+
+
+
+.photo {
+	margin: 0 auto;
+	border: #999999 solid 1px;
+	margin-bottom: 45px;
+}
+
+#box {
+	float: left;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 370px;
+	height: 600px;
+	margin:	0 auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+
+
+#voorgerechten {
+	float: left;
+}
+
+#hoofdgerechten {
+	float: left;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 370px;
+	height: 600px;
+	margin:	0 auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+#nagerechten {
+	float: left;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 370px;
+	height: 600px;
+	margin:	0 auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+
+p {
+	font-size: 13px;
+}
+
+/*.lowerCase {
+	text-transform: lowercase;
+}*/
